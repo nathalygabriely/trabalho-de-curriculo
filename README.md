@@ -1,2 +1,2 @@
-# trabalho-de-curriculo
-trabalho de currucilo feito na sala de aula
+# Perfil_DDM2
+Perfil profissional desenvolvido durante a aula de DDM 2 para os alunos do Navas.
